@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/LevelDesign.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Plugins/SimpleInput/Example/ExampleScene.unity
+  isLoaded: 0
+  isActive: 0

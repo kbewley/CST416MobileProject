@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{E6F80E00-93B9-3FF7-82C7-D5CCB98DE1C0}|">
+  <MonoDevelop.Ide.ItemProperties.LevelDesign PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CharController.cs">
+    <Files>
+      <File FileName="Assets/knight/Script/CharaView.js" Line="32" Column="1" />
+      <File FileName="Assets/CharController.cs" Line="39" Column="41" />
+      <File FileName="Assets/Plugins/SimpleInput/README.txt" Line="3" Column="36" />
+      <File FileName="Assets/Plugins/SimpleInput/Scripts/SimpleInput.cs" Line="518" Column="20" />
+      <File FileName="Assets/Plugins/SimpleInput/Example/ExamplePlayerController.cs" Line="6" Column="1" />
+      <File FileName="Assets/Plugins/SimpleInput/Scripts/AxisInputs/Joystick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Player.cs" Line="18" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
